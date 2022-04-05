@@ -1,10 +1,15 @@
-##CV_haruluya
+## CV_haruluya
+
 Haruluya's wroks in Computer vision.
-###Introduction 
+
+### Introduction 
+
 ![Haruluya](https://img.shields.io/badge/X-Haruluya-brightgreen)
 
-###Development Environment
+### Development Environment
+
 **Basic**
+
 - python 3.9
 - opencv
 - NumPy
@@ -18,14 +23,14 @@ Haruluya's wroks in Computer vision.
 - TensorFlow
 - PyTorch
 
+### Deployment method
 
-###Deployment method
-
-###Presentation
+### Presentation
 
 ### Contact Author 
 
-###![img.png](img.png) License
+###  License
+
 MIT
 
 ![MIT](https://img.shields.io/badge/License-MIT-red)
