@@ -22,7 +22,7 @@ Haruluya
 
 - PyCharm2021
 - face_recognition 1.2.0
-- opencv
+- opencv 6
 
 #### 提取人脸特征
 
