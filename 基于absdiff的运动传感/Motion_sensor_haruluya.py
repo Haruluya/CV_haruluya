@@ -6,8 +6,8 @@ import cv2
 # 微信公众号发送消息请求。
 # 获取access_token。
 def get_access_token():
-    app_id = 'wxb0a9ca55294303da'
-    app_secret = 'a5078045d4e04086f64f3e4bf918c091'
+    app_id = 'wxxxxxxxxxxxxxx'
+    app_secret = 'axxxxxxxxx'
     url = f'https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid={app_id}&secret={app_secret}'
     resp = requests.get(url).json()
     return resp.get('access_token')
@@ -16,7 +16,7 @@ def get_access_token():
 def set_wechat_message(message):
     access_token = get_access_token()
     url = f'https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token={access_token}'
-    open_id = "osROc5yIAHNCjcfZAS4Po0XKQE-M"
+    open_id = "xxxxxxxxxxxxxxxx"
     req_data = {
         "touser": open_id,
         "msgtype": "text",
