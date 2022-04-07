@@ -20,8 +20,7 @@ Haruluya's wroks in Computer vision.
 **Another**
 
 - face_location
-- TensorFlow
-- PyTorch
+
 
 ### Deployment method
 
