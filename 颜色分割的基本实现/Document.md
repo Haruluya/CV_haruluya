@@ -87,11 +87,11 @@ res = cv2.bitwise_and(frame, frame, mask=mask)
 
 对于单通道输入的每个元素：
 
-![img](https://img.jbzj.com/file_images/article/202104/20210424111448.jpg)
+![img](../fileImages/03_img5.png)
 
 对于双通道输入：
 
-![img](https://img.jbzj.com/file_images/article/202104/20210424111455.jpg)
+![img](../fileImages/03_img6.png)
 
 同样应用于四通道。
 
